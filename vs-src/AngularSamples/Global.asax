@@ -1,0 +1,1 @@
+﻿<%@ Application CodeBehind="Global.asax.cs" Inherits="MicrolyncGallery.Samples.Angular.WebApiApplication" Language="C#" %>
